@@ -1,0 +1,28 @@
+_repo: The-Positive-School-of-CriminologyThree-Lectures-Given-at-the-University-of-Naples-Italy-on-A__10580
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Ferri, Enrico
+    birthdate: 1856
+    deathdate: 1929
+    gutenberg_agent_id: '257'
+    url: http://www.gutenberg.org/2009/agents/257
+description: ''
+gutenberg_bookshelf: Crime Nonfiction
+gutenberg_issued: '2004-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10580'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HV'
+- !lcsh 'Criminal anthropology'
+- GITenberg
+title: 'The Positive School of Criminology
+
+  Three Lectures Given at the University of Naples, Italy on April 22, 23 and 24,
+  1901'
+url: http://www.gutenberg.org/ebooks/10580
